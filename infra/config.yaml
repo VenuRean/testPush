@@ -12,3 +12,10 @@
     "type": "snstopic"
   - "name": "test-snstopic10"
     "type": "snstopic"
+- "list":
+  - "name": "test-snstopic11"
+    "type": "snstopic"
+  - "name": "test-snstopic12"
+    "type": "snstopic"
+  - "name": "test-snstopic10"
+    "type": "snstopic"
