@@ -1,11 +1,16 @@
 "pvps":
-- "name": "test-snstopic1"
+- "caching": true
+  "name": "test-snstopic1"
   "type": "snstopic"
-- "name": "test-snstopic2"
+- "caching": true
+  "name": "test-snstopic2"
   "type": "snstopic"
-- "name": "test-snstopic3"
+- "caching": false
+  "name": "test-snstopic3"
   "type": "snstopic"
-- "name": "test-snstopic4"
+- "caching": true
+  "name": "test-snstopic4"
   "type": "snstopic"
-- "name": "test-snstopic4"
+- "caching": true
+  "name": "test-snstopic4"
   "type": "snstopic"
