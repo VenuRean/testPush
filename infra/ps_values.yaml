@@ -1,4 +1,4 @@
 "pvps":
-- "caching": true
+- "caching": false
   "name": "ps1"
   "type": "27000GiB"
