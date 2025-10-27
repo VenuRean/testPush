@@ -1,8 +1,8 @@
 "metadata":
-  "timestamp": "2025-10-27T14:45:31Z"
+  "timestamp": "2025-10-27T14:46:15Z"
   "updated_by": "terraform"
 "pvps":
-- "cache_enabled": "true"
+- "cache_enabled": "false"
   "capacity": "27000GiB"
   "name": "Parallelstore-instance-1"
 - "cache_enabled": "false"
