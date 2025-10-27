@@ -1,4 +1,10 @@
-"pvps":
-- "caching": true
-  "name": "ps2"
-  "type": "27000GiB"
+"list":
+- "cache_enabled": "true"
+  "capacity": "27000GiB"
+  "name": "Parallelstore-instance-1"
+- "cache_enabled": "false"
+  "capacity": "32000GiB"
+  "name": "Parallelstore-instance-2"
+"metadata":
+  "timestamp": "2025-10-27T14:44:52Z"
+  "updated_by": "terraform"
